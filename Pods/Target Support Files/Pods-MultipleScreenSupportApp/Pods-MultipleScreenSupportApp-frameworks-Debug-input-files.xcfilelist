@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MultipleScreenSupportApp/Pods-MultipleScreenSupportApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/PieCharts/PieCharts.framework
+${BUILT_PRODUCTS_DIR}/SwiftChart/SwiftChart.framework

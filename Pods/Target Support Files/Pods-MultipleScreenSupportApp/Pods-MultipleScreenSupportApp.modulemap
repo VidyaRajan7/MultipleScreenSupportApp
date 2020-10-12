@@ -1,0 +1,6 @@
+framework module Pods_MultipleScreenSupportApp {
+  umbrella header "Pods-MultipleScreenSupportApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

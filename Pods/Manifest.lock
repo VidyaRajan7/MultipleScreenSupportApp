@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - PieCharts (0.0.7)
+  - SwiftChart (0.6.0)
+
+DEPENDENCIES:
+  - Charts
+  - PieCharts
+  - SwiftChart (~> 0.4)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - PieCharts
+    - SwiftChart
+
+SPEC CHECKSUMS:
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  PieCharts: 30e50dfa7dc19e5b84e9878d32089673ef5d0453
+  SwiftChart: 07e8fa78c3ce1b4f5c86450a1338a6eef33039c5
+
+PODFILE CHECKSUM: af98af2b9e11b16971ce2465be4f70f9fa08665a
+
+COCOAPODS: 1.8.4
